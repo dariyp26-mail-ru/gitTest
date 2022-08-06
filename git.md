@@ -33,4 +33,4 @@ git config --global user.name "ИМЯ"
 
 **git checkout master** - Возврат к актуальной версии.
 
-**git cler** - очистить консоль. 
+**clear** - очистить консоль. 
