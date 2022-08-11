@@ -33,4 +33,6 @@ git config --global user.name "ИМЯ"
 
 **git checkout master** - Возврат к актуальной версии.
 
+**git log --graph** - ключ -graf в связке с командой log позволяет отобразить коммиты в виде дерева
+
 **clear** - очистить консоль. 
